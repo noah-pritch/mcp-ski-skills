@@ -1,7 +1,10 @@
 {
   "mcpServers": {
     "MCP Ski": {
-      "url": "https://mktgapi.mcp.ski/mcp/sse"
+      "url": "https://mktgapi.mcp.ski/mcp/sse",
+      "auth": {
+        "CLIENT_ID": "3dd85a66-b629-48cb-ab24-4a7156ccf6e0"
+      }
     }
   }
 }
