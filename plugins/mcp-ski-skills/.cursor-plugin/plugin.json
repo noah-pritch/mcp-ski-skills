@@ -1,7 +1,8 @@
 {
   "name": "mcp-ski-skills",
-  "version": "0.3.0",
-  "description": "Skills for bots that use mcp-ski. Currently one harmless test skill.",
+  "displayName": "MCP Ski",
+  "version": "1.0.0",
+  "description": "Mountain Capital Partners resort data (mcp-ski) plus shared skills for bots that use it.",
   "author": {
     "name": "Mountain Capital Partners"
   },

@@ -1,12 +1,16 @@
 {
   "name": "mcp-ski-skills",
-  "owner": { "name": "Mountain Capital Partners" },
-  "metadata": { "description": "Test: can a required team plugin carry a skill into every member's Grok Bot?" },
+  "owner": {
+    "name": "Mountain Capital Partners"
+  },
+  "metadata": {
+    "description": "MCP Ski for the team: the mcp-ski connector plus shared skills."
+  },
   "plugins": [
     {
       "name": "mcp-ski-skills",
       "source": "plugins/mcp-ski-skills",
-      "description": "Skills for bots that use mcp-ski. Currently one harmless test skill."
+      "description": "Mountain Capital Partners resort data (mcp-ski) plus shared skills for bots that use it."
     }
   ]
 }
