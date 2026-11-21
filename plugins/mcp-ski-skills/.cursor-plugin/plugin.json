@@ -1,6 +1,10 @@
 {
   "name": "mcp-ski-skills",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Skills for bots that use mcp-ski. Currently one harmless test skill.",
-  "author": { "name": "Mountain Capital Partners" }
+  "author": {
+    "name": "Mountain Capital Partners"
+  },
+  "category": "integrations",
+  "mcpServers": "./mcp.json"
 }

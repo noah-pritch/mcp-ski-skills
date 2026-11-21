@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mcp-ski": {
+      "type": "http",
+      "url": "https://mktgapi.mcp.ski/mcp"
+    }
+  }
+}
