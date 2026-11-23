@@ -1,6 +1,6 @@
 {
   "name": "mcp-ski-skills",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Mountain Capital Partners resort data (mcp-ski) plus shared skills for bots that use it.",
   "author": {
     "name": "Mountain Capital Partners"
