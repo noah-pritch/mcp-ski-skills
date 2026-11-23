@@ -10,7 +10,8 @@
     {
       "name": "mcp-ski-skills",
       "source": "plugins/mcp-ski-skills",
-      "description": "Mountain Capital Partners resort data (mcp-ski) plus shared skills for bots that use it."
+      "description": "MCP Ski: Mountain Capital Partners resort data plus every shared team skill.",
+      "displayName": "MCP Ski"
     }
   ]
 }
