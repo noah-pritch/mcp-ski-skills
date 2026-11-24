@@ -33,7 +33,7 @@ Say this, in your own short words, when they ask what the pull does:
 2. Read back, one line each, which sources are on (Gmail, Calendar, Drive, meetings, Chat)
    and any exclude list ("mail from these senders or with these words is skipped").
 3. Turning a source ON is limited to the MCP Ski admins while the pull is tested. If they
-   want it on and it is off, tell them: "Turning it on is admin-only for now; ask Noah."
+   want it on and it is off, tell them: "Turning it on is admin-only for now; ask an MCP Ski admin."
    Do not call ros_ingest-set_my_consent with allowed true for them. If the response's
    can_enable_pull is true, they are an admin: ask once ("mcp.ski will read your recent
    email each night and keep only work facts, never the email. Turn it on?") and only on a
