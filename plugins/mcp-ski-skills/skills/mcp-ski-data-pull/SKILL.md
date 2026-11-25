@@ -65,10 +65,12 @@ see their proposals.
 3. Otherwise list them, numbered, one line each: the tracker item, then old → new. Keep it to the first 10.
 4. Ask once: "Apply all, some (give the numbers), or none?"
 5. Apply only what they said yes to: call alignment-confirm_changes with {"change_ids": [...]}, at most 10 at a time.
+   Decline the ones they said no or skip to: call alignment-decline_changes with {"change_ids": [...]},
+   at most 10 at a time, so they stop coming back. Leave unanswered ones alone.
 6. Read back each result in one line: applied = done; duplicate = it was already there;
-   conflict = someone changed it first (show both values and leave it as it is).
+   conflict = someone changed it first (show both values and leave it as it is); declined = won't come back.
 
-Never confirm without the person's yes in this chat. Never confirm someone else's proposal.
+Never confirm or decline without the person's answer in this chat. Never confirm or decline someone else's proposal.
 Never propose new changes yourself unless they ask.
 
 ## Turning it off, deleting
